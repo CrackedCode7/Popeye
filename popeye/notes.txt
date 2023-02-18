@@ -1,0 +1,2 @@
+If we have things that are constantly updating, it makes sense for us to keep IDs for objects that are being rendered and
+update the buffer data using buffer sub data based on the ID. The ID will correspond to some offset into the buffers
